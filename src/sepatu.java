@@ -16,9 +16,8 @@ public class sepatu {
     }
 
     public void print (){
-        System.out.println("Merek" + merek);
-        System.out.println("Bahan" + bahan);
-        System.out.println("Ukuran" + ukuran
-        );
+        System.out.println("Merek :" + merek);
+        System.out.println("Bahan :" + bahan);
+        System.out.println("Ukuran :" + ukuran);
     }
 }
