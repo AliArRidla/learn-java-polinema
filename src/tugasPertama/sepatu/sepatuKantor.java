@@ -1,4 +1,5 @@
-public class sepatu {
+package tugasPertama.sepatu;
+public class sepatuKantor {
     private String merek;
     private String bahan;
     private int ukuran;
