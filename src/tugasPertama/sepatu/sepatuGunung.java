@@ -1,4 +1,5 @@
-public class sepatuGunung extends sepatu {
+package tugasPertama.sepatu;
+public class sepatuGunung extends sepatuKantor {
     private int ketahananSuhu;
     public String alamat,kodeRumah;
 

@@ -1,6 +1,7 @@
+package tugasPertama.sepatu;
 public class sepatuMain {
     public static void main(String[] args) {
-        sepatu sepatu1 = new sepatu();
+        sepatuKantor sepatu1 = new sepatuKantor();
         sepatuGunung sepatu2 = new sepatuGunung();
 
         sepatu1.setMerek(" VANS");
